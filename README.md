@@ -8,7 +8,7 @@
 
 <p>An applicant’s compatibility score is a weighted average of all of their attributes. The weights are determined based on how much the company values these attributes. These numbers are divided by 10 to be on the range [0, 1].</p>
 
-***Score = (attribute1 * weight1 + … + attributeN * weightN) / N
+***Score = (attribute1 * weight1 + … + attributeN * weightN) / N***
 
 <p>By averaging the attributes across all current team members, the software calculates a number between 1-10 representing how much the company values said attribute. These numbers are presented to the user and asks if the predicted numbers are an accurate representation of the candidates their company is looking to hire.</p>
 
