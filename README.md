@@ -6,7 +6,7 @@
 ## How is Compatability Generated?
 <p>The software takes input data by parsing through the file data.json.</p>
 
-<p>An applicant’s compatibility score is a weighted average of all of their attributes. The weights are determined based on how much the company values these attributes. These numbers are divided by 10 to be on the range [0, 1].</p>
+<p>An applicant’s compatibility score is a weighted sum of all of their attributes. The weights are determined based on how much the company values these attributes. These numbers are divided by 10 to be on the range [0, 1].</p>
 
 ***Score = (attribute1 * weight1 + … + attributeN * weightN) / (weight1 +...+ weightN)***
 
