@@ -19,4 +19,4 @@
 <p>The results are written to the file output.JSON.</p>
 
 ## Instructions for use
-<p> Once downloaded and unzipped, executing 'main.py' will run the software</p>
+<p> Once downloaded and unzipped, double clicking 'main.py' will run the software in the Python terminal</p>
