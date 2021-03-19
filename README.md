@@ -20,3 +20,4 @@
 
 ## Instructions for use
 <p> Once downloaded and unzipped, double clicking 'main.py' will run the software in the Python terminal</p>
+<p> For better view of UI, run inPython IDLE </p>
