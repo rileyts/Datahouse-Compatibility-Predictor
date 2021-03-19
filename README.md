@@ -17,3 +17,6 @@
 <p>If they disagree, they are prompted to rate each attribute on a scale of 1-10. Their input is then used for scoring.</p>
 
 <p>The results are written to the file output.JSON.</p>
+
+## Instructions for use
+<p> Once downloaded and unzipped, executing 'main.py' will run the software</p>
